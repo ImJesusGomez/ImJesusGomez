@@ -1,7 +1,7 @@
 # 💫 About Me
 
 👋 Hi, I’m **Jesús** 👨‍💻  
-I’m a 21-year-old Software Engineering student at **Universidad Autónoma de Querétaro (UAQ)**. I love learning new technologies every day and constantly improving my skills.
+I’m a 22-year-old Software Engineering student at **Universidad Autónoma de Querétaro (UAQ)**. I love learning new technologies every day and constantly improving my skills.
 
 ---
 
